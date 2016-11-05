@@ -1,0 +1,3 @@
+[submodule "cmapping"]
+	path = cmapping
+	url = https://github.com/niemandkun/cmapping.git
