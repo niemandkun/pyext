@@ -1,7 +1,7 @@
 # Pyext v0.0-prealpha2
 
 Pyext allows to open Ext4 image, traverse directories tree and restore deleted files.
-For more info about Ext4 see [Ext4 page](https://ext4.wiki.kernel.org/index.php)
+For more info about Ext4 see [Ext4 page](https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout)
 at [Ext Wiki](https://ext4.wiki.kernel.org/index.php/Main_Page).
 
 ## Launch shell
